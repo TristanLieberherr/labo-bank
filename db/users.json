@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Bob",
+        "password": "pbkdf2:sha256:600000$dFQYwNkjS8rGfmg7$51d08c1237d008fe7e25863adff5af12a0d442ce91bc1bc17cad67b52bf25570",
+        "last_connection": 1581884311.560531
+    },
+    {
+        "name": "Alice",
+        "password": "pbkdf2:sha256:600000$FCar26XKpvjyEcz8$9d94e77422bd45010fea967759cb31037207d86dab02fbd06e22d7913f7555bb",
+        "last_connection": 1581884311.560531
+    },
+    {
+        "name": "HEIG-VD",
+        "password": "",
+        "last_connection": null
+    },
+]

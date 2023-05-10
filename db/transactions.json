@@ -1,0 +1,22 @@
+[
+    {
+        "sender": "HEIG-VD",
+        "recipient": "Alice",
+        "amount": 5000
+    },
+    {
+        "sender": "HEIG-VD",
+        "recipient": "Bob",
+        "amount": 1000
+    }
+    {
+        "sender": "Bob",
+        "recipient": "Alice",
+        "amount": 50
+    },
+    {
+        "sender": "Alice",
+        "recipient": "Bob",
+        "amount": 10
+    }
+]
